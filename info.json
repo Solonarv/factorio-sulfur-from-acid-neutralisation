@@ -1,0 +1,9 @@
+{
+  "name": "sulfur-from-acid-neutralisation",
+  "version": "0.0.1",
+  "title": "Sulfur from Acid Neutralisation",
+  "author": "Solonarv",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "space-age >= 2.0"],
+  "description": "Changes the acid neutralisation recipe to also output sulfur. Optionally also adds a recipe to vent steam."
+}
